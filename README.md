@@ -7,3 +7,4 @@ Temperature indication on the car refrigerator
 * Temperature sensor DS18B20
 * OLED display SSD1306 0.96 inch
 
+![Alt text](ezetil_e26.jpg)
