@@ -8,4 +8,6 @@ Temperature indication on the car refrigerator
 * OLED display SSD1306 0.96 inch
 * Pull-up resistor 4.7 kOhm
 
-![Alt text](ezetil_e26.jpg)
+![Alt text](images/ezetil_logo.jpeg)
+![Alt text](images/ezetil_temp.jpeg)
+![Alt text](images/hardware.jpeg)
