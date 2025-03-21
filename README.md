@@ -1,5 +1,5 @@
-# CarFridgeTempIndicator
-Temperature indication on the car refrigerator
+# CarFrigeTempIndicator
+Temperature indicator on the car EZETIL E26 refrigerator
 
 ## Required parts
 * DC-DC Converter 36V to 3.3V
